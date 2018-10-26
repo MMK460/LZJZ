@@ -8,7 +8,7 @@ Email：zack@grossbart.com
 
 TEl: +1 514889235
 
-![image](https://github.com/MMK460/MMKRepository/blob/master/555.png)
+![image](https://github.com/MMK460/LZJZ/blob/master/66.png)
 海量兼职信息免费查询、发布。
 找兼职没乐赚怎么行？找兼职必备。
 可查看附近兼职信息，真实、高效、免费!
@@ -26,9 +26,9 @@ TEl: +1 514889235
 2.发布信息 ：可免费发布求职简历、招聘信息，发布简历坐等招聘单位联系你。
 3.个人中心：可以查看和管理自己发布的信息。
 
-![image](https://github.com/MMK460/MMKRepository/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-10-18%20at%2015.52.02.png)
+![image](https://github.com/MMK460/LZJZ/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-10-26%20at%2011.22.39.png)
 
-![image](https://github.com/MMK460/MMKRepository/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-10-18%20at%2015.52.12.png)
+![image](https://github.com/MMK460/LZJZ/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-10-26%20at%2012.09.40.png)
 
 iOS App Technical Support
 
